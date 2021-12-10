@@ -15,7 +15,7 @@ My take on AOC2021 using Python. Nested for loops for life 🌀🌀🌀... 🤠
 |[07](https://adventofcode.com/2021/day/7)|The Treachery of Whales|[py](/challenge7/challenge7.py)|⭐ |⭐
 |[08](https://adventofcode.com/2021/day/8)|Seven Segment Search|[py](/challenge8/challenge8.py)|⭐ |💩
 |[09](https://adventofcode.com/2021/day/9)|Smoke Basin|[py](/challenge9/challenge9.py)|⭐ |💩
-|[10](https://adventofcode.com/2021/day/10)|/|[py](/challenge7/challenge7.py)|💩 |💩
+|[10](https://adventofcode.com/2021/day/10)|Syntax Scoring|[py](/challenge10/challenge10.py)|⭐ |⭐
 |[11](https://adventofcode.com/2021/day/11)|/|[py](/challenge7/challenge7.py)|💩 |💩
 |[12](https://adventofcode.com/2021/day/12)|/|[py](/challenge7/challenge7.py)|💩 |💩
 |[13](https://adventofcode.com/2021/day/13)|/|[py](/challenge7/challenge7.py)|💩 |💩
